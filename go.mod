@@ -21,7 +21,7 @@ require (
 	github.com/osmosis-labs/osmosis/osmomath v0.0.3-dev.0.20230328024000-175ec88e4304
 	github.com/osmosis-labs/osmosis/osmoutils v0.0.0-20230411200859-ae3065d0ca05
 	github.com/osmosis-labs/osmosis/x/epochs v0.0.0-20230328024000-175ec88e4304
-	github.com/osmosis-labs/osmosis/x/ibc-hooks v0.0.0-20230331072320-5d6f6cfa2627
+	github.com/osmosis-labs/osmosis/x/ibc-hooks v0.0.6
 	github.com/pkg/errors v0.9.1
 	github.com/rakyll/statik v0.1.7
 	github.com/spf13/cast v1.5.0
@@ -55,6 +55,7 @@ require (
 	github.com/curioswitch/go-reassign v0.2.0 // indirect
 	github.com/docker/distribution v2.8.1+incompatible // indirect
 	github.com/felixge/httpsnoop v1.0.2 // indirect
+	github.com/goccy/go-json v0.10.2 // indirect
 	github.com/google/btree v1.1.2 // indirect
 	github.com/junk1tm/musttag v0.5.0 // indirect
 	github.com/kkHAIKE/contextcheck v1.1.4 // indirect
