@@ -43,7 +43,7 @@ require (
 	github.com/osmosis-labs/osmosis/osmomath v0.0.14
 	github.com/osmosis-labs/osmosis/osmoutils v0.0.14
 	github.com/osmosis-labs/osmosis/x/epochs v0.0.10
-	github.com/osmosis-labs/osmosis/x/ibc-hooks v0.0.16
+	github.com/osmosis-labs/osmosis/x/ibc-hooks v0.0.17
 	github.com/osmosis-labs/sqs/sqsdomain v0.26.0
 	github.com/pkg/errors v0.9.1
 	github.com/rakyll/statik v0.1.7
