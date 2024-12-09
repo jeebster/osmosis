@@ -9,7 +9,7 @@ require (
 	cosmossdk.io/core v0.12.1-0.20240725072823-6a2d039e1212
 	cosmossdk.io/errors v1.0.1
 	cosmossdk.io/log v1.4.1
-	cosmossdk.io/math v1.3.0
+	cosmossdk.io/math v1.4.0
 	cosmossdk.io/store v1.1.1
 	cosmossdk.io/tools/confix v0.1.2
 	cosmossdk.io/x/circuit v0.1.1
@@ -40,7 +40,7 @@ require (
 	github.com/mattn/go-sqlite3 v1.14.17
 	github.com/ory/dockertest/v3 v3.11.0
 	github.com/osmosis-labs/go-mutesting v0.0.0-20221208041716-b43bcd97b3b3
-	github.com/osmosis-labs/osmosis/osmomath v0.0.14
+	github.com/osmosis-labs/osmosis/osmomath v0.0.16
 	github.com/osmosis-labs/osmosis/osmoutils v0.0.14
 	github.com/osmosis-labs/osmosis/x/epochs v0.0.10
 	github.com/osmosis-labs/osmosis/x/ibc-hooks v0.0.16
