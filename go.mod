@@ -61,8 +61,8 @@ require (
 	go.opentelemetry.io/otel/sdk v1.31.0
 	go.uber.org/multierr v1.11.0
 	golang.org/x/exp v0.0.0-20240613232115-7f521ea00fb8
-	google.golang.org/genproto/googleapis/api v0.0.0-20241007155032-5fefd90f89a9
-	google.golang.org/grpc v1.67.1
+	google.golang.org/genproto/googleapis/api v0.0.0-20241015192408-796eee8c2d53
+	google.golang.org/grpc v1.69.0
 	google.golang.org/protobuf v1.35.1
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.1
@@ -74,7 +74,7 @@ require (
 	cloud.google.com/go v0.115.1 // indirect
 	cloud.google.com/go/auth v0.9.3 // indirect
 	cloud.google.com/go/auth/oauth2adapt v0.2.4 // indirect
-	cloud.google.com/go/compute/metadata v0.5.0 // indirect
+	cloud.google.com/go/compute/metadata v0.5.2 // indirect
 	cloud.google.com/go/iam v1.2.1 // indirect
 	cloud.google.com/go/storage v1.43.0 // indirect
 	cosmossdk.io/collections v0.4.0 // indirect
@@ -164,7 +164,7 @@ require (
 	golang.org/x/time v0.6.0 // indirect
 	google.golang.org/api v0.197.0 // indirect
 	google.golang.org/genproto v0.0.0-20240903143218-8af14fe29dc1 // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20241007155032-5fefd90f89a9 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20241015192408-796eee8c2d53 // indirect
 	gotest.tools/v3 v3.5.1 // indirect
 	pgregory.net/rapid v1.1.0 // indirect
 	sigs.k8s.io/yaml v1.4.0 // indirect
