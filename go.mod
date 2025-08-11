@@ -53,7 +53,7 @@ require (
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.19.0
 	github.com/stretchr/testify v1.9.0
-	github.com/tidwall/btree v1.7.0
+	github.com/tidwall/btree v1.8.1
 	github.com/tidwall/gjson v1.18.0
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.55.0
 	go.opentelemetry.io/otel v1.31.0
