@@ -1,6 +1,6 @@
 module github.com/osmosis-labs/osmosis/v26
 
-go 1.22.4
+go 1.23
 
 require (
 	cloud.google.com/go/pubsub v1.44.0
@@ -63,7 +63,7 @@ require (
 	golang.org/x/exp v0.0.0-20240613232115-7f521ea00fb8
 	google.golang.org/genproto/googleapis/api v0.0.0-20241007155032-5fefd90f89a9
 	google.golang.org/grpc v1.67.1
-	google.golang.org/protobuf v1.35.1
+	google.golang.org/protobuf v1.36.8
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.1
 	gotest.tools v2.2.0+incompatible
