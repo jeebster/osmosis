@@ -1,6 +1,6 @@
 module github.com/osmosis-labs/osmosis/x/ibc-hooks
 
-go 1.22.3
+go 1.23
 
 require (
 	cosmossdk.io/core v0.12.0
