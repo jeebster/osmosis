@@ -7,7 +7,6 @@ require (
 	github.com/cosmos/cosmos-sdk v0.50.6
 	github.com/stretchr/testify v1.9.0
 	gopkg.in/yaml.v2 v2.4.0
-
 )
 
 require (
